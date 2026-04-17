@@ -81,7 +81,9 @@ int main()
     // Timer for the game play to continue
     float timer = 0;
     float speed = 0.5;
+
     sf::Clock clock;
+
     int color = 1;
     int n = rand() % 7;
 
